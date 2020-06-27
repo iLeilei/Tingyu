@@ -1,4 +1,4 @@
-CMSController -
+CMSController -666
  1、处理系统公告类型页面跳转
     1.1、权限标记：cms:type:view
  2、处理系统公告类别分页查询
